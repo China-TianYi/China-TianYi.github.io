@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>IDEA2020.2生成JavaWeb</title>
+      <link href="2021/01/13/IDEA2020-2%E7%94%9F%E6%88%90JavaWeb/"/>
+      <url>2021/01/13/IDEA2020-2%E7%94%9F%E6%88%90JavaWeb/</url>
+      
+        <content type="html"><![CDATA[<h2 id="IDEA2020-2生成JavaWeb"><a href="#IDEA2020-2生成JavaWeb" class="headerlink" title="IDEA2020.2生成JavaWeb"></a>IDEA2020.2生成JavaWeb</h2><h3 id="1-创建一个空项目"><a href="#1-创建一个空项目" class="headerlink" title="1. 创建一个空项目"></a>1. 创建一个空项目</h3><blockquote><h4 id="如图-："><a href="#如图-：" class="headerlink" title="如图 ："></a>如图 ：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb15f3ffa7d37b3d64b0f.png" alt="avatar"><br><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb15f3ffa7d37b3d64b11.png" alt="avatar"></p></blockquote><h3 id="2-配置运行设置-点击右上角的Add-Configuration"><a href="#2-配置运行设置-点击右上角的Add-Configuration" class="headerlink" title="2.配置运行设置,点击右上角的Add Configuration"></a>2.配置运行设置,点击右上角的Add Configuration</h3><blockquote><p>如图：</p></blockquote><blockquote><blockquote><p>步骤一：<br><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb16e3ffa7d37b3d65b9c.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><p>步骤二：<br><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb16e3ffa7d37b3d65ba3.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><p>步骤三：<br><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb16e3ffa7d37b3d65ba6.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><p>步骤四：<br><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb16e3ffa7d37b3d65bab.png" alt="avatar"></p></blockquote></blockquote><h3 id="3-点击项目右键选择Add-FrameWork-Support"><a href="#3-点击项目右键选择Add-FrameWork-Support" class="headerlink" title="3.点击项目右键选择Add FrameWork Support"></a>3.点击项目右键选择Add FrameWork Support</h3><blockquote><p>如图:</p></blockquote><blockquote><blockquote><h4 id="步骤一："><a href="#步骤一：" class="headerlink" title="步骤一："></a>步骤一：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb15f3ffa7d37b3d64b16.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤二："><a href="#步骤二：" class="headerlink" title="步骤二："></a>步骤二：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb15f3ffa7d37b3d64b20.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤三："><a href="#步骤三：" class="headerlink" title="步骤三："></a>步骤三：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb15f3ffa7d37b3d64b26.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤四："><a href="#步骤四：" class="headerlink" title="步骤四："></a>步骤四：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb16e3ffa7d37b3d65bae.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤五："><a href="#步骤五：" class="headerlink" title="步骤五："></a>步骤五：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb1763ffa7d37b3d662bf.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤六："><a href="#步骤六：" class="headerlink" title="步骤六："></a>步骤六：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb1763ffa7d37b3d662c2.png" alt="avatar"></p></blockquote></blockquote><blockquote><blockquote><h4 id="步骤七："><a href="#步骤七：" class="headerlink" title="步骤七："></a>步骤七：</h4><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb1763ffa7d37b3d662c6.png" alt="avatar"></p></blockquote></blockquote><h3 id="4-查看运行结果，大功告成"><a href="#4-查看运行结果，大功告成" class="headerlink" title="4.查看运行结果，大功告成"></a>4.查看运行结果，大功告成</h3><p><img src= "/img/loading.gif" data-lazy-src="https://img.imgdb.cn/item/5ffeb1763ffa7d37b3d662c8.png" alt="avatar"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> JavaWeb </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> IDEA </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hello World</title>
       <link href="2020/10/20/hello-world/"/>
       <url>2020/10/20/hello-world/</url>
